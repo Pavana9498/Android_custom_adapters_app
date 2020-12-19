@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Project 2</string>
+    <string-array name="movies">
+        <item>Joker</item>
+        <item>Her</item>
+        <item>La la land</item>
+        <item>Inside out</item>
+        <item>Moonlight</item>
+        <item>Knives out</item>
+    </string-array>
+    <string name="option1">View Info</string>
+    <string name="option2">View Trailer</string>
+    <string name="option3">View Director</string>
+    <string name="option4">View IMDB page</string>
+    <string name="relDate">Release Date:</string>
+    <string name="duration">Duration:</string>
+    <string name="director">Director</string>
+    <string name="stars">Stars:</string>
+    <string name="rating">Ratings:</string>
+</resources>
